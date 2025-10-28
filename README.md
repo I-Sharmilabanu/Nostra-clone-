@@ -35,5 +35,5 @@ When you **open the website** (or refresh it), a **greeting message** such as
  *“Welcome to Nostra!”*  
 
  ## 💬 How to View
-Link:
+Link:https://i-sharmilabanu.github.io/Nostra-clone-/
 
